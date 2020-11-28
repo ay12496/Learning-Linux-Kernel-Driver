@@ -1,4 +1,3 @@
-#include<linux/kernel.h>
 #include<linux/module.h>
 
 static int __init ex_module_init(void)
