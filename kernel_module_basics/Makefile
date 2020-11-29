@@ -1,4 +1,3 @@
-OUTPUT_DIR := output/
 obj-m := ex_kernel_module.o
 KDIR := /lib/modules/$(shell uname -r)/build
 
